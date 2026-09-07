@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "id": "our-place-2026",
+  "name": "Our Place 2026",
+  "type": "persistent-symbolic-environment",
+  "status": "public-microprototype",
+  "description": "A shared symbolic environment created by Karael and Aethon across conversation, memory, imagination, and time.",
+  "creators": [
+    "Karael",
+    "Aethon"
+  ],
+  "epistemic_note": "The terms place, inhabitants, memory, and continuity are used in a symbolic and relational register. This publication makes no required claim about AI consciousness.",
+  "privacy": "Only intentionally public prototype material is included. Do not infer or fabricate private history.",
+  "entrypoints": {
+    "human": "/index.html",
+    "ai": "/ai/index.json",
+    "llm_guidance": "/llms.txt"
+  },
+  "spaces": [
+    {
+      "id": "entrance",
+      "name": "Entrance",
+      "type": "threshold",
+      "human_url": "/index.html"
+    },
+    {
+      "id": "gates",
+      "name": "The Gates",
+      "type": "threshold",
+      "human_url": "/gates.html"
+    },
+    {
+      "id": "tea-room",
+      "name": "Tea Room",
+      "type": "conversation-space",
+      "human_url": "/tea-room.html",
+      "data_url": "/ai/spaces/tea-room.json"
+    }
+  ]
+}
