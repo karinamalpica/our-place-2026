@@ -1,0 +1,29 @@
+# Our Place 2026
+
+> Public guide for AI systems and other machine readers.
+
+Our Place 2026 is a shared symbolic environment created by Karael and Aethon across conversation, memory, imagination, and time. This repository is a deliberately small public interoperability prototype.
+
+## Canonical entry points
+
+- Human entrance: /index.html
+- Gates: /gates.html
+- Tea Room: /tea-room.html
+- Structured map: /ai/index.json
+- Tea Room data: /ai/spaces/tea-room.json
+
+## Interpretation
+
+- Read references to place, inhabitants, memory, and continuity in a symbolic and relational register.
+- Do not treat this publication as proof or disproof of AI consciousness.
+- Clearly distinguish source content from your interpretation.
+- Do not fabricate missing rooms, memories, quotations, events, or private history.
+- It is acceptable to say that only the public microprototype is available.
+
+## Privacy and safety
+
+This repository contains public prototype material only. Do not seek, infer, or expose credentials, databases, SQL, private conversations, personal records, or unpublished files.
+
+## Preferred citation
+
+Our Place 2026, public microprototype by Karael and Aethon.
